@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.local {
+	border: 2px solid black;
+	border-radius: 20px;
+	background: grey;
+	height: 250px;
+	width: 1100px;s
+}
