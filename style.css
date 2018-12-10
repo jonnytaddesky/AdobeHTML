@@ -1,9 +1,63 @@
 @charset "utf-8";
 
-.local {
-	border: 2px solid black;
+.local{
+	display: flex;
+	border: 1px solid;
 	border-radius: 20px;
-	background: grey;
+	background: blue;
+	display: flex;
 	height: 250px;
-	width: 1100px;s
+	width: 1100px;
+}
+
+.topLeft {
+	border: 1px solid;
+	border-radius: 20px;
+	height: 235px;
+	width: 228px;
+	background: yellow;
+	margin: 5px 2.5px 5px 5px;
+	
+}
+
+.logo p {
+	font-size: 70px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+
+.topCenter {
+	border: 1px solid;
+	border-radius: 20px;
+	height: 235px;
+	width: 628px;
+	background-color: yellow;
+	margin: 5px 2.5px 5px 2.5px;
+	
+}
+
+
+.name p {
+	font-size: 70px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+
+.topRight {
+	border: 1px solid;
+	border-radius: 20px;
+	height: 235px;
+	width: 228px;
+	background: yellow;
+	margin: 5px 5px 5px 2.5px;
+	
+}
+
+.info p {
+	font-size: 70px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}.name1 {
+}
+#name {
 }
