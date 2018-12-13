@@ -1,21 +1,14 @@
 body {
-    background-image: url(wallpaper.jpg);
+    background-image: url(img/wallpaper.jpg);
     font-family: Verdana;
 }
 
 .menu {
     background-image: linear-gradient(rgba(15, 76, 111), rgba(12, 147, 224));
     margin-top: 0;
-    width: 100%;
+    width: auto;
     color: white;
 } 
-
-.global {
-    height: 870px;
-    width: 100%;
-    background-color:cornflowerblue;
-    opacity: 0.3;
-}
 
 ul.list{
     display: flex;
@@ -28,8 +21,8 @@ ul.list{
     list-style: none;
     padding: 10px;
     position: relative;
-    padding-right: 50px;
-    padding-left: 50px;
+    padding-right: 30px;
+    padding-left: 30px;;
 }
 
 a {
