@@ -1,3 +1,7 @@
+.head {
+    background-image: url(wall.jpeg);
+}
+
 .header {
     display: flex;
     position: relative;
@@ -23,10 +27,9 @@ p {
 }
 
 .middle {
-    background-color: #547980;
     margin-top: 0;
     width: auto;
-    color: black;
+    color: white;
 }
 
 ul.top_skills{
@@ -38,7 +41,7 @@ ul.top_skills{
 
 .skills-li {
     transition: .5s;
-    border: 1px solid black;
+    border: 1px solid white;
     list-style: none;
     padding: 10px;
     padding-right: 30px;
@@ -50,8 +53,5 @@ li.skills-li:hover {
     transition: .5s;
 }
 
-.skills-li.html {
-    border: 2px solid black;
-}
 
 
