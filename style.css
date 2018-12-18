@@ -33,11 +33,8 @@ a:hover {
     transition: .5s;
 }
 
-a:visited {
-    color: white;
-}
 
-a:active {
+a:visited {
     color: white;
 }
 
