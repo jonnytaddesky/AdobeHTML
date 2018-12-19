@@ -1,0 +1,19 @@
+/* #map {
+    margin-left: 2px;
+    width: 595px;
+    height: 400px;
+    background-color: black;
+}
+
+#pano {
+    margin-top: -400px;
+    left: 602px;
+    width: 595px;
+    height: 400px;
+    background-color: black;
+} */
+
+.map {
+	width: 100%;
+	height: 400px;
+}
