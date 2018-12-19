@@ -1,14 +1,10 @@
-.head {
-    background-image: url(wall_photo.jpg);
-}
-
 .header {
     display: flex;
-    position: relative;
 }
 
 .info {
-    padding-left: 50%;
+    margin-top: -400px;
+    padding-left: 30%;
 }
 
 p {

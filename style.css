@@ -1,9 +1,12 @@
 body {
-    background-image: url(wall_photo.jpg);
+    background-color:dimgray;
     font-family: sans-serif;
     background-size: cover;
 }
-
+img {
+    height: 480px;
+    width: 398px;
+}
 .menu {
     margin-top: 0;
     width: auto;
