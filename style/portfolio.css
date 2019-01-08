@@ -2,32 +2,27 @@
     display: flex;
 }
 
-.info {
-    margin-top: -400px;
-    padding-left: 30%;
-}
-
-p {
-    color: white;
-    padding: 1em 0;
-    width: 100%;
-    text-align: center;
-    font-family: sans-serif;
-    font-size: 45px;
-}
-
 .middle {
-    padding-left: 10%;
+    width: 70%;
+    vertical-align: middle;
+    text-align: center;
     margin-top: 0;
     width: auto;
     color: white;
+
+    margin: 170px 0px;
 }
 
-ul.top_skills{
+.top_head {
+    display: flex;
+}
+
+ul.top_skills {
+    margin: 200px 110px;
     display: flex;
     padding: 0;
     justify-content: center;
-    font-size: 24px;
+    font-size: 50px;
 }
 
 .skills-li {
@@ -35,7 +30,7 @@ ul.top_skills{
     list-style: none;
     padding: 10px;
     padding-right: 30px;
-    padding-left: 30px;;
+    padding-left: 30px;
 }
 
 li.skills-li:hover {
@@ -47,4 +42,14 @@ li.skills-li:hover {
 
 a:visited {
     color: white;
+}
+
+.photo_img {
+    width: 30%;
+}
+
+.skill {
+    font-family: sans-serif;
+    font-size: 60px;
+    margin: 0;
 }
